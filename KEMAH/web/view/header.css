@@ -1,0 +1,75 @@
+      
+        * {
+  box-sizing: border-box;
+}
+  body{
+  margin:0;
+  }.KEMAH{
+    margin-left: 100.5;
+  } 
+  .trip {
+    width: 130px;
+    height: 100px;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+  
+    line-height: 0;
+    letter-spacing: 1;
+  margin-left: 310%;
+  
+    color: #595858;
+  }.imgSearch{
+    position: absolute;
+    top: 13%;
+    right: 2%;
+  
+      float: right;
+  }.imgNews{
+    float: right;
+  }      
+  .kemahIcon{
+    margin-left: 3.5%;
+  }
+.header {
+
+  padding: 2.5%;
+  margin-bottom: 35px;
+  
+  background-color: #eff4f4;
+ } .topnav {
+  
+  width : 600px;
+  height : 100px;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  text-align: top;
+  padding :1px;
+  line-height: 0;
+  margin-left: 80%;
+  margin-top:-18px;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: right;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 1px 15px;
+  text-decoration: none;
+  
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  color: #367fb2;
+  
+}a{
+  text-decoration: none
+
+}

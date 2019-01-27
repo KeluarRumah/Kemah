@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+
+}
+
+img {
+  float: left;
+}
+.imgNews{
+  float: right;
+}
+.imgSearch{
+  position: absolute;
+  top: 13%;
+  right: 2%;
+  float: right;
+  cursor: pointer;
+}
+
+.linkHeader:link{
+    color: #595858;
+    text-decoration: none;
+    display: inline-block;
+}
+.linkHeader:visited{
+    color: #595858;
+    text-decoration: none;
+}
+
+.linkHeader:hover, linkHeader:active{
+    color: #5b92bc;
+}
+
+
+.header {
+    padding: 2.5%;
+    margin-bottom: 35px;
+    background-color: #eff4f4;
+}
+.createTripText {
+    width: 160px;
+    height: 32px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.2;
+    letter-spacing: 1.4px;
+    text-align: left;
+    color: #367fb2;
+    margin-top: 15px;
+    margin-left:  10%;
+}
+.kemahIcon{
+    margin-left: 3.5%;
+}
+.trip {
+    width: 130px;
+    height: 100px;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: center;
+    line-height: 0;
+    letter-spacing: 1;
+    margin-left: 290%;
+    color: #595858;
+}
+.profileText {
+    position: absolute;
+    width: 130px;
+    height: 100px;
+    left: 81%;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+    line-height: 0;
+    letter-spacing: 1;
+    color: #595858;
+}
+.signOutText {
+    position: absolute;
+    width: 130px;
+    height: 100px;
+    left: 8%;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+    line-height: 0;
+    letter-spacing: 1;
+    margin-left: 60%;
+    color: #595858;
+}
+.search{
+    position: absolute;
+    top: 5%;
+    left: 17%;
+    width: 30%;
+    height: 6%;
+    border-radius: 10.7px;
+    background-color: white;
+}
+.search input{
+    background:white;
+    border:0px solid #dbdbdb;
+    top: 4.5%;
+    left: 10%;
+    width: 90%;
+    height: 100%;
+    color:#595858;
+    border-radius: 10.7px;
+}.search input:focus{
+    border-radius: 10.7px;
+    outline-color:none;
+}
+
+.tambah_trip{
+      width: 88.5%;
+      padding-bottom: 8%;
+      background-color: #eff4f4;
+      margin-left: 6%;
+}
+.Next{
+  position: relative;
+  background:#ffffff;
+  border: 1px solid currentColor;
+  font-size: 1.1rem;
+  color: #367fb2;
+  margin: 3rem 0;
+  padding: 0.75rem 3rem;
+  cursor: pointer;
+  -webkit-transition: background-color 0.28s ease, color 0.28s ease, box-shadow 0.28s ease;
+  transition: background-color 0.28s ease, color 0.28s ease;
+  overflow: hidden;
+  margin-top : 50px;
+  margin-right :-800px;
+  border:0;
+   border-radius: 10.7px;
+
+}.Next:hover {
+  color:#ffffff;
+  background-color: #367fb2;
+   border-radius: 10.7px;
+}
+
+.footer{
+   margin-top: 3%;
+   height: 300px;
+   background-color: #0e1b21;
+}
+.kf {
+  position: absolute;
+  text-align: left;
+  margin-left: 14.5%;
+}
+.ft {
+  width: 110px;
+  height: 21px;
+  font-family: Constantia;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.9;
+  letter-spacing: 0.2px;
+  text-align: right;
+  color: #ffffff;
+  margin-left: 58%;
+  margin-top: 2.5%;
+}
+.trfeature {
+  width: 25px;
+  height: 18px;
+  font-family: Constantia;
+  font-size: 14px;
+  line-height: 0.8;
+  letter-spacing: 0.9px;
+  text-align: center;
+  margin-left: 28%;
+  color: #7c8992;
+}
+
+.fu{
+   width: 110px;
+   height: 21px;
+   font-family: Constantia;
+   font-size: 22px;
+   font-weight: normal;
+   font-style: normal;
+   font-stretch: normal;
+   line-height: 4;
+   letter-spacing: 0.9px;
+   text-align: right;
+   color: #ffffff;
+  margin-left: 73%;
+}
+.fuf {
+  width: 110px;
+  height: 40px;
+  font-family: Constantia;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.97;
+  letter-spacing: 0.6px;
+  text-align: right;
+  margin-left: 9%;
+  color: #7c8992;
+  cursor: pointer;
+}
+.cfk {
+  width: 70px;
+  height: 50px;
+  font-family: CooperStd;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+line-height: 6;
+  letter-spacing: 1.8px;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 18%;
+}
+div.absolute {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  left: 0;
+  width: 200px;
+  height: 100px;
+  border: 3px;
+  color: #7c8992;
+  margin-left: 60%;
+}
+
+

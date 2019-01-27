@@ -1,0 +1,123 @@
+body {
+    background-color: white;
+    background-image: url(image/bg2.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-size: 120%;
+    margin: 0;
+    padding: 0;
+}
+.signup {
+    width: 200px;
+    height: 90px;
+    text-shadow: 1px 3.9px 16.8px rgba(0, 0, 0, 0.7), 0.7px 2.9px 7px rgba(0, 0, 0, 0.09);
+    font-family: Quiska;
+    font-size: 40px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fdfdfd;
+    padding: 20px 0px 0px 0px;
+    opacity: 0.7;
+    margin-bottom: 50px;
+  }
+
+  .input-field {
+    width: 280px;
+    border: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    overflow: hidden;
+}
+
+.textbox {
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  width: 280px;
+  opacity: 0.7;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.textbox i{
+  width: 30px;
+  float: left;
+  text-align: center;
+  color: whitesmoke;
+  opacity: 0.7;
+}
+
+.textbox input{
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 18px;
+  color: whitesmoke;
+  float: left;
+  margin: 0 10px;
+}
+
+::-webkit-input-placeholder {
+  color: ghostwhite;
+  opacity: 0.7;
+}
+
+.link:link{
+  color : ghostwhite;
+  opacity: 0.7;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.link:hover{
+  color: #78e08f;
+}
+
+.link:hover{
+  color: #03A9F4;
+}
+
+.button {
+    width: 250px;
+    height: 40px;
+    border-radius: 10.7px;
+    background-color: #000000;
+    opacity: 0.5;
+    border: none;
+    pointer : cursor;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.button:hover{
+  width: 250px;
+  height: 40px;
+  border-radius: 10.7px;
+  background-color: #000000;
+  opacity: 1;
+  border: none;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.signin {
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  opacity: 0.7;
+  font-size: 14px;
+  padding-top: 4px;
+  padding-left: 30px;
+}

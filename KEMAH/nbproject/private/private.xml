@@ -3,19 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/PBO/KEMAH/web/index.html</file>
-            <file>file:/D:/PBO/KEMAH/web/tambahTrip.html</file>
-            <file>file:/D:/PBO/KEMAH/web/Booking2.css</file>
-            <file>file:/D:/PBO/KEMAH/web/daftarIkut.html</file>
-            <file>file:/D:/PBO/KEMAH/web/Booking1.html</file>
-            <file>file:/D:/PBO/KEMAH/web/tambahTrip2.css</file>
-            <file>file:/D:/PBO/KEMAH/web/listrip.html</file>
-            <file>file:/D:/PBO/KEMAH/web/tambahTrip2.html</file>
-            <file>file:/D:/PBO/KEMAH/web/styleIkut.css</file>
-            <file>file:/D:/PBO/KEMAH/web/Booking2.html</file>
-            <file>file:/D:/PBO/KEMAH/web/tambahTrip.css</file>
-            <file>file:/D:/PBO/KEMAH/web/Booking1.css</file>
-            <file>file:/D:/PBO/KEMAH/web/style.css</file>
+            <file>file:/D:/PBO/KEMAH/web/view/Booking2.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/view/Signup.css</file>
+            <file>file:/D:/PBO/KEMAH/web/index.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/controller/Registrasi.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/view/style.css</file>
+            <file>file:/D:/PBO/KEMAH/web/view/Booking1.css</file>
+            <file>file:/D:/PBO/KEMAH/web/view/daftarIkut.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/view/signUp.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/view/styleIkut.css</file>
+            <file>file:/D:/PBO/KEMAH/web/view/listrip.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/view/Booking1.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/login.css</file>
+            <file>file:/D:/PBO/KEMAH/web/responsListTrip.jsp</file>
+            <file>file:/D:/PBO/KEMAH/web/view/Booking2.css</file>
+            <file>file:/D:/PBO/KEMAH/web/view/tambahTrip.jsp</file>
         </group>
     </open-files>
 </project-private>
